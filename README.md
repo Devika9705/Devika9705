@@ -44,7 +44,6 @@ Git · GitHub · Jupyter · VS Code · Google Colab
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Devika9705&show_icons=true&theme=tokyonight&hide_border=true" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Devika9705&theme=tokyonight&hide_border=true" />
 </p>
 
