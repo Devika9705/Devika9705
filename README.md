@@ -3,33 +3,30 @@
 <p align="center">
 🎓 <b>B.Tech in Artificial Intelligence & Data Science</b><br>
 
-🚀 Passionate about AI, Machine Learning & Intelligent Applications
+🚀<b> Passionate about AI, Machine Learning & Intelligent Applications</b></br>
 </p>
 
 ---
 
 ### 🧠 About Me
-- 🤖 Building **AI-powered assistants** and **emotion-aware applications**  
-- 🗣️ Experienced in **Machine Learning**, **Deep Learning**, and **Computer Vision**  
-- 🔍 Currently working on:
-  - 🎭 **MoodMate** – Real-time facial emotion recognition + mood assistant  
-  - 🧠 **Jarvis AI** – Voice-based assistant powered by ChatGPT  
-  - 💬 **WhatsApp Chat Analyzer** – Data-driven chat & sentiment analysis  
-  - 🧍‍♀️ **Human Activity Recognition** – Deep learning model for real-time activity classification  
-- 🌱 Always learning something new in **AI & Cloud Deployment**  
-- ⚡ Fun fact: I love turning emotions into code and intelligence into action.
+- 🤖 Building **AI-powered assistants** and **emotion-aware applications**
+- 🗣️ Skilled in **Machine Learning**, **Deep Learning**, and **Computer Vision**
+- 🌱 Exploring **AI + Emotion Recognition + Voice Interaction**
+- 💡 Turning innovative ideas into impactful, real-world solutions
+- ⚡ Fun fact: I love turning emotions into code and creativity into intelligence!
 
 ---
 
 ### 🧰 Tech Stack
-#### 💬 Languages
-🐍 Python | ☕ Java | 💾 SQL | 🐚 Bash  
 
-#### 🧠 Frameworks & Libraries
-TensorFlow | OpenCV | Scikit-learn | Streamlit | Matplotlib | Pandas | NumPy  
+#### 💬 Languages  
+🐍 **Python** · ☕ **Java** · 💾 **SQL** · 🐚 **Bash**
 
-#### ⚙️ Tools & Platforms
-Git | GitHub | Jupyter | VS Code | Google Colab  
+#### 🧠 Frameworks & Libraries  
+TensorFlow · OpenCV · Scikit-learn · Streamlit · Matplotlib · Pandas · NumPy  
+
+#### ⚙️ Tools & Platforms  
+Git · GitHub · Jupyter · VS Code · Google Colab  
 
 ---
 
@@ -37,22 +34,22 @@ Git | GitHub | Jupyter | VS Code | Google Colab
 
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
-| 🎭 [**MoodMate**](https://github.com/Devika9705/Moodmate) | Real-time facial emotion recognition with AI-driven mood assistant | Python, TensorFlow, OpenCV, pyttsx3 |
-| 🗣️ [**Jarvis AI Assistant**](#) | Voice-controlled AI assistant using OpenRouter ChatGPT | Python, Streamlit, SpeechRecognition |
-| 💬 [**WhatsApp Chat Analyzer**](#) | Chat insights & sentiment visualization using NLP | Python, Streamlit, Plotly, VADER |
-| 🧍‍♀️ [**Human Activity Recognition**](#) | CNN-LSTM model for detecting real-time human movements | Python, TensorFlow, OpenCV |
+| 🎭 [**MoodMate**](https://github.com/Devika9705/Moodmate) <br> ![Badge](https://img.shields.io/badge/AI%20Emotion-Recognition-blueviolet?style=flat-square&logo=tensorflow) | Real-time **facial emotion recognition** with AI-driven **mood assistant** | Python, TensorFlow, OpenCV, pyttsx3 |
+| 🗣️ [**Jarvis AI Assistant**](https://github.com/Devika9705/Jarvis-AI) <br> ![Badge](https://img.shields.io/badge/Voice-AI%20Assistant-blue?style=flat-square&logo=openai) | Voice-controlled AI assistant with **ChatGPT** integration | Python, Streamlit, SpeechRecognition |
+| 💬 [**WhatsApp Chat Analyzer**](https://github.com/Devika9705/WhatsApp-Chat-Analyzer) <br> ![Badge](https://img.shields.io/badge/NLP-Chat%20Analysis-green?style=flat-square&logo=python) | Visualizes chats & detects sentiment using **VADER & Plotly** | Python, Streamlit, Plotly |
+| 🧍‍♀️ [**Human Activity Recognition**](https://github.com/Devika9705/Human-Activity-Recognition) <br> ![Badge](https://img.shields.io/badge/Deep%20Learning-HAR-orange?style=flat-square&logo=keras) | CNN-LSTM model for **real-time human activity detection** | Python, TensorFlow, OpenCV |
 
 ---
 
-### 📈 GitHub Stats & Activity
+### 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Devika9705&show_icons=true&theme=tokyonight" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Devika9705&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Devika9705&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Devika9705&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devika9705&layout=compact&theme=tokyonight" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devika9705&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -60,7 +57,6 @@ Git | GitHub | Jupyter | VS Code | Google Colab
 ### 🌐 Connect With Me
 
 <p align="center">
-  
   <a href="mailto:devikashukla9705@gmail.com">
     <img src="https://img.shields.io/badge/Email-devikashukla9705%40gmail.com-red?style=for-the-badge&logo=gmail" />
   </a>
@@ -71,4 +67,4 @@ Git | GitHub | Jupyter | VS Code | Google Colab
 
 ---
 
-⭐ *"Turning emotions into AI-powered experiences and creativity into code."*
+⭐ *“Creating intelligent systems that understand humans — not just data.”*
