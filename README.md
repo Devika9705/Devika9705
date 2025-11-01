@@ -44,8 +44,8 @@ Git · GitHub · Jupyter · VS Code · Google Colab
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SHASHI9705&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHASHI9705&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Devika9705&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devika9705&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
 ---
