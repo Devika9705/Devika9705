@@ -35,21 +35,17 @@ Git · GitHub · Jupyter · VS Code · Google Colab
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
 | 🎭 [**MoodMate**](https://github.com/Devika9705/Moodmate) <br> ![Badge](https://img.shields.io/badge/AI%20Emotion-Recognition-blueviolet?style=flat-square&logo=tensorflow) | Real-time **facial emotion recognition** with AI-driven **mood assistant** | Python, TensorFlow, OpenCV, pyttsx3 |
-| 🗣️ [**Jarvis AI Assistant**](https://github.com/Devika9705/jarvis-ai-assistant) <br> ![Badge](https://img.shields.io/badge/Voice-AI%20Assistant-blue?style=flat-square&logo=openai) | Voice-controlled AI assistant with **ChatGPT** integration | Python, Streamlit, SpeechRecognition |
-| 💬 [**WhatsApp Chat Analyzer**](https://github.com/Devika9705/WhatsAppChat-Analyzer) <br> ![Badge](https://img.shields.io/badge/NLP-Chat%20Analysis-green?style=flat-square&logo=python) | Visualizes chats & detects sentiment using **VADER & Plotly** | Python, Streamlit, Plotly |
-| 🧍‍♀️ [**Human Activity Recognition**](https://github.com/Devika9705/HumanActivity) <br> ![Badge](https://img.shields.io/badge/Deep%20Learning-HAR-orange?style=flat-square&logo=keras) | CNN-LSTM model for **real-time human activity detection** | Python, TensorFlow, OpenCV |
+| 🗣️ [**Jarvis AI Assistant**](https://github.com/Devika9705/Jarvis-AI) <br> ![Badge](https://img.shields.io/badge/Voice-AI%20Assistant-blue?style=flat-square&logo=openai) | Voice-controlled AI assistant with **ChatGPT** integration | Python, Streamlit, SpeechRecognition |
+| 💬 [**WhatsApp Chat Analyzer**](https://github.com/Devika9705/WhatsApp-Chat-Analyzer) <br> ![Badge](https://img.shields.io/badge/NLP-Chat%20Analysis-green?style=flat-square&logo=python) | Visualizes chats & detects sentiment using **VADER & Plotly** | Python, Streamlit, Plotly |
+| 🧍‍♀️ [**Human Activity Recognition**](https://github.com/Devika9705/Human-Activity-Recognition) <br> ![Badge](https://img.shields.io/badge/Deep%20Learning-HAR-orange?style=flat-square&logo=keras) | CNN-LSTM model for **real-time human activity detection** | Python, TensorFlow, OpenCV |
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Devika9705&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Devika9705&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devika9705&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SHASHI9705&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHASHI9705&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
 ---
