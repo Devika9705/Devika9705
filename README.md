@@ -2,7 +2,7 @@
 
 <p align="center">
 🎓 <b>B.Tech in Artificial Intelligence & Data Science</b><br>
-💻 <b>Java Developer Intern @ CodSoft</b><br>
+
 🚀 Passionate about AI, Machine Learning & Intelligent Applications
 </p>
 
