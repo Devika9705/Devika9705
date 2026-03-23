@@ -39,22 +39,12 @@ Git · GitHub · Jupyter · VS Code · Google Colab
 | 💬 [**WhatsApp Chat Analyzer**](https://github.com/Devika9705/WhatsApp-Chat-Analyzer) <br> ![Badge](https://img.shields.io/badge/NLP-Chat%20Analysis-green?style=flat-square&logo=python) | Visualizes chats & detects sentiment using **VADER & Plotly** | Python, Streamlit, Plotly |
 | 🧍‍♀️ [**Human Activity Recognition**](https://github.com/Devika9705/Human-Activity-Recognition) <br> ![Badge](https://img.shields.io/badge/Deep%20Learning-HAR-orange?style=flat-square&logo=keras) | CNN-LSTM model for **real-time human activity detection** | Python, TensorFlow, OpenCV |
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Devika9705&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devika9705&layout=compact&theme=tokyonight" height="160"/>
-</p>
-
----
 
 ### 🌐 Connect With Me
 
 <p align="center">
   <a href="mailto:devikashukla9705@gmail.com">
-    <img src="https://img.shields.io/badge/Email-devikashukla9705%40gmail.com-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-devikashukla80%gmail.com-red?style=for-the-badge&logo=gmail" />
   </a>
   <a href="https://github.com/Devika9705">
     <img src="https://img.shields.io/badge/GitHub-Devika9705-black?style=for-the-badge&logo=github" />
