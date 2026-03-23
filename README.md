@@ -40,17 +40,7 @@ Git · GitHub · Jupyter · VS Code · Google Colab
 | 🧍‍♀️ [**Human Activity Recognition**](https://github.com/Devika9705/Human-Activity-Recognition) <br> ![Badge](https://img.shields.io/badge/Deep%20Learning-HAR-orange?style=flat-square&logo=keras) | CNN-LSTM model for **real-time human activity detection** | Python, TensorFlow, OpenCV |
 
 
-### 🌐 Connect With Me
 
-<p align="center">
-  <a href="mailto:devikashukla9705@gmail.com">
-    <img src="https://img.shields.io/badge/Email-devikashukla80%gmail.com-red?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://github.com/Devika9705">
-    <img src="https://img.shields.io/badge/GitHub-Devika9705-black?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
----
+    
 
 ⭐ *“Creating intelligent systems that understand humans — not just data.”*
